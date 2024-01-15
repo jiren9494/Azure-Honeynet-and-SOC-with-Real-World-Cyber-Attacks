@@ -64,11 +64,11 @@ Stop Time 2023-03-17 23:48:28
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 15953
-| Syslog                   | 3068
-| SecurityAlert            | 52
-| SecurityIncident         | 268
-| AzureNetworkAnalytics_CL | 528
+| SecurityEvent            | 34820
+| Syslog                   | 3858
+| SecurityAlert            | 14
+| SecurityIncident         | 273
+| AzureNetworkAnalytics_CL | 2240
 
 
 ## Metrics After Hardening / Security Controls
@@ -83,8 +83,8 @@ Stop Time	2023-08-19 17:52:43
 | ------------------------ | -----
 | SecurityEvent            | 600
 | Syslog                   | 25
-| SecurityAlert            | 0
-| SecurityIncident         | 0
+| SecurityAlert            | 1
+| SecurityIncident         | 2
 | AzureNetworkAnalytics_CL | 0
 
 ## Conclusion
