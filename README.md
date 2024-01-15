@@ -45,13 +45,16 @@ During the "AFTER" stage of the project, the environment was hardened and securi
 
 ## Attack Maps Before Hardening / Security Controls
 <b>This attack map shows the traffic allowed by a Network Security Group with all traffic allowed inbound</b>
-![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/BSsGPrd.png)<br>
+![(before)nsg-malicious-allowed-in](https://github.com/jiren9494/Azure-Honeynet-and-SOC-with-Real-World-Cyber-Attacks/assets/105225215/df10c345-16da-42f4-a50f-7ad235d3df74)
+
 
 <b>This attack map shows all the attempts malicious actors attempting to access the Linux virtual machine</b>
-![Linux Syslog Auth Failures](https://i.imgur.com/omQKBA3.png)<br>
+![(before)linux-ssh-auth-fail json](https://github.com/jiren9494/Azure-Honeynet-and-SOC-with-Real-World-Cyber-Attacks/assets/105225215/b6958427-ccd3-4eb1-9a71-72ca031245db)
+
 
  <b>This attack map shows all the attempts malicious actors attempting to access the Windows virtual machine</b>
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/VVS8wxd.png)<br>
+![(before)windows-rdp-auth-fail](https://github.com/jiren9494/Azure-Honeynet-and-SOC-with-Real-World-Cyber-Attacks/assets/105225215/f30ec1a6-9040-4c46-82ca-6256a1142058)
+
 
 
 ## Metrics Before Hardening / Security Controls
